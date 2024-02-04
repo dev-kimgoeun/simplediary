@@ -1,12 +1,18 @@
-# SIMPLE DIARY
+
+![12](https://github.com/dev-kimgoeun/simplediary/assets/148428523/43679c83-cccc-47c7-b977-1f6b38a550da)  
+
+
+
+<div align="center">
+  # SIMPLE DIARY
 <br>
 <br>
 <div>
-![12](https://github.com/dev-kimgoeun/simplediary/assets/148428523/43679c83-cccc-47c7-b977-1f6b38a550da)  
+<img src="https://github.com/dev-kimgoeun/simplediary/assets/148428523/43679c83-cccc-47c7-b977-1f6b38a550da)"/>
 </div>
 
-
-1.NAME
-2.CONTENT
-3.EMOTION LEVAL
-4. SUBMIT
+1.NAME <br>
+2.CONTENT <br>
+3.EMOTION LEVAL <br>
+4. SUBMIT <br>
+</div>
